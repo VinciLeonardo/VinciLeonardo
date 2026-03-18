@@ -40,14 +40,16 @@ Passionate about technology and always improving my skills through real-world pr
 ---
 
 # 🚀 Featured Projects
-🔹 Coming soon... (working on new projects 👨‍💻)  
+🔹 Coming soon...
+🔹 SextoPiso
+🔹 JamSessions
 🔹 Dashboard Web Application  
 🔹 Landing Pages & UI Interfaces  
 
 ---
 
 # 📈 Focus
-⚡ Front-end development  
+⚡ Full Stack Developer 
 ⚡ Responsive design  
 ⚡ Clean and modern UI  
 
