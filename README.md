@@ -39,13 +39,17 @@ Passionate about technology and always improving my skills through real-world pr
 
 ---
 
-# 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+# 🚀 Featured Projects
+🔹 Coming soon... (working on new projects 👨‍💻)  
+🔹 Dashboard Web Application  
+🔹 Landing Pages & UI Interfaces  
 
 ---
 
-# 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
+# 📈 Focus
+⚡ Front-end development  
+⚡ Responsive design  
+⚡ Clean and modern UI  
 
 ---
 
