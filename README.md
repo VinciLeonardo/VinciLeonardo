@@ -20,7 +20,7 @@ Passionate about technology and always improving my skills through real-world pr
 ---
 
 ## ⚙️ Backend (Basics):
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,python" />
 
 ---
 
