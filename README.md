@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👨‍💻 About Me
+💻 Front-end Developer in progress  
+🚀 Building modern web projects  
+⚡ Passionate about technology  
 
-<!--
-**VinciLeonardo/VinciLeonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🧠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend:
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=javascript)
+
+## Learning:
+![React](https://skillicons.dev/icons?i=react)
+![Git](https://skillicons.dev/icons?i=git)
+
+---
+
+# 🛠 Tools
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+---
+
+# 🚀 Currently
+📚 Learning more about web development  
+📊 Creating dashboards and interfaces  
+
+---
+
+# 🎯 Goals
+🚀 Become Full-Stack Developer  
+💡 Work with real projects  
