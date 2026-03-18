@@ -1,7 +1,7 @@
 # 👨🏻‍💻 About me
 Welcome to my Github Profile!
 
-I'm a Front-end Developer focused on building modern and responsive web applications.  
+I'm a Full-Stack Developer focused on building modern and responsive web applications.  
 Passionate about technology and always improving my skills through real-world projects. 🚀  
 
 ---
